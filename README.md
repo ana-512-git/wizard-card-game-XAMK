@@ -1,12 +1,12 @@
 # Merlin's Demon War
-A desktop card game, where you have to defeat an enemy using attack cards, which I developed in the XAMK Intro to Game Creation course.
+A desktop card game, where you have to defeat an enemy using attack cards, which I developed as an assignment for the XAMK Intro to Game Creation course.
 
 ## Description
 In this fast-paced, card-based duel of magic and strategy, you step into the robes of a powerful wizard, battling relentless demons in a test of wit and resourcefulness. Your deck holds the key to survival—drag and drop spell cards to unleash devastating attacks, cast protective wards, or restore your dwindling health. Each move comes at a cost, forcing you to balance aggression with patience. Will you press the attack or bide your time, gathering resources for a game-changing play? Every choice shapes your fate in this high-stakes battle of sorcery and survival!
 
 ## How to play
 ### Controls
-Left click and hold to pick up and move a card from the dealt deck. The player's deck is the one on theleft, with it's cards facing upwards.
+Left click and hold to pick up and move a card from the dealt deck. The player's deck is the one on the left, with its cards facing upwards.
 
 ![alt text](https://github.com/ana-512-git/wizard-card-game-XAMK/blob/main/readme-media/gameplay.png)
 
@@ -18,10 +18,10 @@ The cards in this game look something like this:
 
 ![alt text](https://github.com/ana-512-git/wizard-card-game-XAMK/blob/main/readme-media/card-types.png)
 
-As you can see, they have different frame colors, numbers in the corners and a short description. The frame colors tell you which player they should be used on: a card with a green frame is a perk, and should be used on the player directly, while a red one is an attack, which damages the enemy. The number in the upper left corner shows the cost of the card, and the one on the right shows the attack damage (or the health added, for defense cards). To make the game more intuitive, the cards also have a short description in the bottom text box.
+As you can see, they have different frame colors, numbers in the corners and a short description. The frame colors tell you which player they should be used on: a card with a green frame is a perk, and should be used on the player directly, while a red one is an attack, which damages the enemy. The number in the upper left corner shows the cost of the card, and the one on the right shows the attack damage. To make the game more intuitive, the cards also have a short description in the bottom text box.
 
 #### In-game currency
-On the left side of the screen, you'll be able to see the amount of coins you currently have. You earn one coin per round you survive, therefore, if you want to save up for a more powerful attack, you can use the "Skip Turn" button, right above the dealt cards.
+On the left side of the screen, you'll be able to see the amount of coins you currently have. You earn one coin per round you survive, therefore, if you want to save up for a more powerful attack, you can use the "Skip Turn" button, right below your character's card.
 
 ![alt text](https://github.com/ana-512-git/wizard-card-game-XAMK/blob/main/readme-media/coins-and-skip.png)
 
