@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DestructCard
   m_EditorClassIdentifier: 
   cardTitle: Destruct
-  description: Destroys the enemy, made by Ana Miron
+  description: Destroys the enemy
   cost: 5
   damage: 9
   damageType: 3
